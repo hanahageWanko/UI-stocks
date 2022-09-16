@@ -19,6 +19,11 @@ const router = createRouter({
       name: "digitalclock",
       component: () => import("../views/DigitalClock.vue"),
     },
+    {
+      path: "/radicalmenu",
+      name: "radicalmenu",
+      component: () => import("../views/RadicalMenu.vue"),
+    },
   ],
 });
 

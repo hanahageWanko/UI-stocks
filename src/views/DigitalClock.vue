@@ -32,7 +32,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script lang="ts" setup>
 setInterval(() => {
   let hours = document.getElementById("hours");
   let minutes = document.getElementById("minutes");
