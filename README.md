@@ -5,6 +5,11 @@
 - Amazing Working Digital Clock using Html CSS SVG & Javascript
   ![img](https://user-images.githubusercontent.com/43740354/175766680-9b39a5ec-7487-4473-9818-be811a63621b.png)
 
+## RadicalMenu
+
+- Amazing Working Digital Clock using Html CSS SVG & Javascript
+  ![radicalmenu](https://user-images.githubusercontent.com/43740354/195664526-821c933d-b064-48ce-a92f-f7dbe8323fab.png)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
